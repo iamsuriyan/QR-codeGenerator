@@ -26,19 +26,22 @@ Before you begin, ensure you have the following installed:
 
 ## Installation
 
-1. **Clone the repository:**
+1. **Create a folder:**
+   create a folder in your machine (ex:QR-codeGenerator)
+   
+2. **Clone the repository:**
 
     ```bash
     git clone https://github.com/iamsuriyan/QR-codeGenerator.git
     ```
 
-2. **Navigate to the project directory:**
+3. **Navigate to the project directory:**
 
     ```bash
     cd QR-codeGenerator
     ```
 
-3. **Install dependencies using npm or yarn:**
+4. **Install dependencies using npm or yarn:**
 
     ```bash
     # Using npm
